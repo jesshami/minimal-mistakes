@@ -21,19 +21,19 @@ foo:
 
 # main links links
 main:
-  - title: "Quick-Start Guide"
+  - title: "Affiliated Projects"
     url: /docs/quick-start-guide/
 
   - title: "About"
     url: /about/
 
-  - title: "Sample Posts"
+  - title: "Metrolab"
     url: /year-archive/
 
-  - title: "Sample Collections"
+  - title: "People"
     url: /collection-archive/
 
-  - title: "Terms &amp; Privacy Policy"
+  - title: "Partners / Sponsors"
     url: /terms/
 
 
