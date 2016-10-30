@@ -1,18 +1,11 @@
 # Authors
 
 Billy Rick:
-  name        : "Billy Rick"
-  uri         : "http://thewhip.com"
-  email       : "billy@rick.com"
-  bio         : "What do you want, jewels? I am a very extravagant man."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "extravagantman"
-  google_plus : "BillyRick"
+  name        : "Jess Hamilton"
+  uri         : "http://jess-hamilton.com"
+  email       : "jesshami@uw.edu"
+  bio         : "Landscape Architecture graduate student trying to understand what data has to do with design"
+  avatar      :
+  twitter     : "jesshami"
+  google_plus :
 
-Cornelius Fiddlebone:
-  name        : "Cornelius Fiddlebone"
-  email       : "cornelius@thewhip.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "rhymeswithsackit"
-  google_plus : "CorneliusFiddlebone"
