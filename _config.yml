@@ -11,9 +11,9 @@ title                    : "urbanalytics"
 title_separator          : "-"
 name                     : &name "Jess Hamilton"
 description              : &description "UrbAnalytics is a campus-wide effort at the University of Washington to advance municipal big data projects. The UrbAnalytics Studio will bridge expertise from the eScience Institute, the Center for Studies in Demography and Ecology (CSDE), and faculty from across the Urban@UW network to establish a permanent capacity for high-impact data-driven analytics and research projects on behalf of government and community stakeholders, addressing the complex challenges and opportunities of the urban landscape."
-url                      : https://jesshami.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://jesshami.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/urbanalytics" # the subpath of your site, e.g. "/blog"
-repository               : "jess/urbanalytics"
+repository               : "jesshami/urbanalytics"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
