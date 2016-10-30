@@ -22,10 +22,10 @@ foo:
 # main links links
 main:
   - title: "Affiliated Projects"
-    url: /docs/quick-start-guide/
+    url: /
 
   - title: "About"
-    url: /about/
+    url: /#about
 
   - title: "Metrolab"
     url: /year-archive/
